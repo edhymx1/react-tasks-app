@@ -53,7 +53,7 @@ function App(): JSX.Element {
                   autoFocus={true}
                   ref={taskInput}
                 />
-                <button className='btn btn-success btn-block mt-2'>Save</button>
+                <button className='btn btn-success w-100 mt-2'>Save</button>
               </form>
             </div>
           </div>
